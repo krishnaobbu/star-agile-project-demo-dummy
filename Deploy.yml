@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hari
-        image: krishnaobbu/hari1:v1
+        image: krishnaobbu/spingboot
         ports:
         - containerPort: 8080
